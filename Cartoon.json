@@ -772,8 +772,15 @@
       "creator": "Pendleton Ward",
       "description": "Fantasy adventures of Finn and Jake in the Land of Ooo."
     },
-    {
+     {
         "id": 98,
+      "title": "Muppet Babies",
+      "release_year": 1984,
+      "creator": "Jim Henson",
+      "description": "Animated series that follows the imaginative adventures."
+    },
+    {
+        "id": 99,
       "title": "Rick and Morty",
       "release_year": 2013,
       "creator": "Dan Harmon and Justin Roiland",
